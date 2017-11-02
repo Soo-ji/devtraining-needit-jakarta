@@ -3,6 +3,7 @@
     <element audit="true" extends="task" label="NeedIt_table" max_length="40" name="x_58872_needit_needit_table" type="collection">
         <element default="Defaultni hodnota" label="New field 2" max_length="50" name="new_field_2" type="string"/>
         <element label="When needed" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+        <element dependent="u_request_type" dependent_on_field="u_request_type" label="REFERENCE" max_length="32" name="u_reference_2" reference="x_58872_needit_needit_table" type="reference" use_dependent_field="true"/>
         <element label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="legal" label="Request type" mandatory="true" max_length="40" name="u_request_type" type="string">
             <choice>

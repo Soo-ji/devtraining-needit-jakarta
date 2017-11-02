@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-02 11:54:15</sys_created_on>
-            <sys_id>d85ded3f0f420300a204c3ace1050e07</sys_id>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>086f16370fc20300a204c3ace1050e1d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-02 11:54:15</sys_updated_on>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,111 +19,125 @@
             <element>u_requested_for</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-02 11:54:15</sys_created_on>
-            <sys_id>5c5ded3f0f420300a204c3ace1050e07</sys_id>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>8c6f16370fc20300a204c3ace1050e1d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-02 11:54:15</sys_updated_on>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>006f16370fc20300a204c3ace1050e1e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-02 11:54:15</sys_created_on>
-            <sys_id>dc5ded3f0f420300a204c3ace1050e07</sys_id>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>806f16370fc20300a204c3ace1050e1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-02 11:54:15</sys_updated_on>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_when_needed</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-02 11:54:15</sys_created_on>
-            <sys_id>505ded3f0f420300a204c3ace1050e08</sys_id>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>046f16370fc20300a204c3ace1050e1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-02 11:54:15</sys_updated_on>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_request_type</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-02 11:54:15</sys_created_on>
-            <sys_id>d05ded3f0f420300a204c3ace1050e08</sys_id>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>846f16370fc20300a204c3ace1050e1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-02 11:54:15</sys_updated_on>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_what_needed</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-02 11:54:15</sys_created_on>
-            <sys_id>545ded3f0f420300a204c3ace1050e08</sys_id>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>086f16370fc20300a204c3ace1050e1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-02 11:54:15</sys_updated_on>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-02 11:54:15</sys_created_on>
-            <sys_id>d45ded3f0f420300a204c3ace1050e08</sys_id>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>886f16370fc20300a204c3ace1050e1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-02 11:54:15</sys_updated_on>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-02 11:54:15</sys_created_on>
-            <sys_id>585ded3f0f420300a204c3ace1050e08</sys_id>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>0c6f16370fc20300a204c3ace1050e1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-02 11:54:15</sys_updated_on>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-11-02 11:54:15</sys_created_on>
-            <sys_id>d85ded3f0f420300a204c3ace1050e08</sys_id>
+            <sys_created_on>2017-11-02 15:32:58</sys_created_on>
+            <sys_id>8c6f16370fc20300a204c3ace1050e1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Sekce1" display_value="Sekce1" name="x_58872_needit_needit_table" sys_domain="global" view="a7ace53f0f420300a204c3ace1050ecf">e3ac693f0f420300a204c3ace1050e60</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-11-02 11:54:15</sys_updated_on>
+            <sys_updated_on>2017-11-02 15:32:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
