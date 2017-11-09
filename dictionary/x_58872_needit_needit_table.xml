@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="NeedIt_table" max_length="40" name="x_58872_needit_needit_table" sizeclass="9" type="collection">
+    <element audit="true" extends="task" label="NeedIt_table" max_length="40" name="x_58872_needit_needit_table" sizeclass="11" type="collection">
         <element default="Defaultni hodnota" label="New field 2" max_length="50" name="new_field_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Choice" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
         <element label="When needed" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
         <element dependent="u_request_type" dependent_on_field="u_request_type" label="REFERENCE" max_length="32" name="u_reference_2" reference="x_58872_needit_needit_table" type="reference" use_dependent_field="true"/>
